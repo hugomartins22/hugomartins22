@@ -1,4 +1,4 @@
-I'm Hugo 🔴
+Hey, I'm Hugo Martins🔴
 ##
 - I’m currently studying on Universidade do Minho, Braga 🎓
 - I'm a master's degree student in Software Engineering, specializing in Machine Learning and Data Science

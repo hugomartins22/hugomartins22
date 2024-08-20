@@ -1,6 +1,7 @@
 I'm Hugo 🔴
 ##
 - I’m currently studying on Universidade do Minho, Braga 🎓
+- I'm a master's degree student in Software Engineering, specializing in Machine Learning and Data Science
 ##
 <div>
   <a href="https://github.com/hugomartins22">
